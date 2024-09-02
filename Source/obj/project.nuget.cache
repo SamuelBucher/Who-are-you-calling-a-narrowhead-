@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7ldwn4zdxKXju7/afxzLHOvRMtkXx9oE8CK5iz5sswaBQd97ijH5Itln7f4en6FGwM3suf9cBOoOFGQMZJWbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxim\\OneDrive\\Desktop\\Creative\\Modding\\RimWorld\\Who are you calling a narrowhead\\Source\\WAYCAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxim\\.nuget\\packages\\krafs.rimworld.ref\\1.5.4184-beta\\krafs.rimworld.ref.1.5.4184-beta.nupkg.sha512",
+    "C:\\Users\\Maxim\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

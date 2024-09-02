@@ -1,0 +1,7 @@
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\WAYCAN\Assembly\WAYCAN.dll
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\Source\obj\Debug\WAYCAN.csproj.AssemblyReference.cache
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\Source\obj\Debug\WAYCAN.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\Source\obj\Debug\WAYCAN.dll
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\WAYCAN\1.5\Assembly\WAYCAN.dll
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\WAYCAN\1.5\Assemblies\WAYCAN.dll
+C:\Users\Maxim\OneDrive\Desktop\Creative\Modding\RimWorld\Who are you calling a narrowhead\WAYCAN\Assemblies\WAYCAN.dll

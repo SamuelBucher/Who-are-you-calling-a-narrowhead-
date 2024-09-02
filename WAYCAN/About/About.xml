@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Who are you calling a narrowhead?</name>
+	<author>SamBucher</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>SamBucher.WAYCAN</packageId>	
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+	<loadBefore>
+	</loadBefore>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+    <incompatibleWith>
+    </incompatibleWith>
+	<description>1.5 removed the head apparel scaling for pawns with narrow head types. I didn't like that.
+	</description>
+</ModMetaData>
